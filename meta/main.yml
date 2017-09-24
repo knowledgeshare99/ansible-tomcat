@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Justin Garrison
+  author raja:
   description: 
-  company: Azusa Pacific University
+  company: Private  University
   license: BSD
   min_ansible_version: 1.4
   #
